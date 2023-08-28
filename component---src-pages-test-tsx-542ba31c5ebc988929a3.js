@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklab_demo=self.webpackChunklab_demo||[]).push([[633],{5241:function(e,t,n){n.r(t),n.d(t,{Head:function(){return a}});var l=n(7294);t.default=()=>l.createElement(l.Fragment,null,"Hi there!");const a=()=>l.createElement("title",null,"阿尔法Lab实验室")}}]);
+//# sourceMappingURL=component---src-pages-test-tsx-542ba31c5ebc988929a3.js.map
