@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklab_demo=self.webpackChunklab_demo||[]).push([[633],{5241:function(e,t,n){n.r(t),n.d(t,{Head:function(){return l}});var a=n(7294);t.default=()=>a.createElement(a.Fragment,null,"Hi there!");const l=()=>a.createElement("title",null,"Alpha Brain Lab")}}]);
+//# sourceMappingURL=component---src-pages-test-tsx-3dc3603443f71a05b037.js.map
