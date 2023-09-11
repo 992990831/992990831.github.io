@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklab_demo=self.webpackChunklab_demo||[]).push([[633],{5241:function(e,t,n){n.r(t),n.d(t,{Head:function(){return a}});var l=n(7294);t.default=()=>l.createElement(l.Fragment,null,"Hi there!");const a=()=>l.createElement("title",null,"多模态脑影像及智能计算实验室")}}]);
+//# sourceMappingURL=component---src-pages-test-tsx-85b0a1ad2cb13a65ab05.js.map
